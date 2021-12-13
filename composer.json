@@ -1,0 +1,15 @@
+{
+    "name": "prolo/license-manager",
+    "type": "project",
+    "license": "Paid",
+    "authors": [
+        {
+            "name": "Awais Ahmad",
+            "email": "info@itsahmadawa.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{"Inc\\":"includes"}
+    }
+}
